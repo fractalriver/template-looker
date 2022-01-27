@@ -1,0 +1,6 @@
+.DS_Store
+.gitkeep
+logs/
+target/
+dbt_modules/
+*.code-workspace
